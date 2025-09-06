@@ -51,13 +51,10 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 ![image](https://github.com/user-attachments/assets/2611bd19-13be-4413-a662-9de3b555981d)
 
-
-
 ## Output
 #### 1.Transient Analysis Output
 
   ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
-
 
 ## Results:
 
